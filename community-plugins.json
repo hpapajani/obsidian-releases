@@ -68228,4 +68228,11 @@
     "description": "Turn notes into focused flashcards and quizzes using your AI connection, source evidence, and spaced repetition. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "shbhmrzd/rehearse-releases"
   }
+  {
+  "id": "google-drive-sync",
+  "name": "Google Drive Sync",
+  "author": "Henry Papajani",
+  "description": "Two-way manual and automatic sync between your Obsidian vault and Google Drive using the Google Drive REST API.",
+  "repo": "hpapajani/obsidian-google-drive-sync"
+  }
 ]
